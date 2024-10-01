@@ -38,6 +38,6 @@
   {
     "question": "Hvor mange lang er en maraton?",
     "options": ["42 195 meter", "39 150 meter", "45 370 meter", "30 000 meter"],
-    "correct_option": 1
+    "correct_option": 0
   }
 ]
