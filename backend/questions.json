@@ -1,0 +1,43 @@
+[
+  {
+    "question": "Hva er verdens høyeste fjell?",
+    "options": ["Himalaya", "Mt. Everest", "Galdhøpiggen", "K2"],
+    "correct_option": 1
+  },
+  {
+    "question": "Hvem malte Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+    "correct_option": 1
+  },
+  {
+    "question": "Hva er hovedstaden i Norge?",
+    "options": ["Bergen", "Trondheim", "Oslo", "Stavanger"],
+    "correct_option": 2
+  },
+  {
+    "question": "Hvor ligger NTNU?",
+    "options": ["Bergen", "Trondheim", "Oslo", "Stavanger"],
+    "correct_option": 1
+  },
+  {
+    "question": "Hva er Norges nasjonalfugl?",
+    "options": ["Dompap", "Havørn", "Undulat", "Fossekall"],
+    "correct_option": 3
+  },
+  {
+    "question": "Hvem er president i USA?",
+    "options": ["Joe Biden", "Kamala Harris", "Boris Johnsen", "Donald Trump"],
+    "correct_option": 0
+  },
+  {
+    "question": "Hvor mange OL-gull har Marit Bjørgen?",
+    "options": ["7", "8", "3", "4"],
+    "correct_option": 1
+  }
+  ,
+  {
+    "question": "Hvor mange lang er en maraton?",
+    "options": ["42 195 meter", "39 150 meter", "45 370 meter", "30 000 meter"],
+    "correct_option": 1
+  }
+]
